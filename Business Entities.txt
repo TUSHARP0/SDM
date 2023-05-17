@@ -1,0 +1,40 @@
+Bussiness Entities:
+
+1. User Table:
+	User_id
+	User_name
+	Age
+	Email
+
+2. Admin Table
+	 Admin_id
+	 Task 
+	 Updates
+
+3. Travelling Info:
+	Travel_id
+	Name
+	Date
+	Time
+	Location
+
+4. Services:
+	Food & Beverages
+	User_Help_mail
+	User_Help_Contact
+
+5. Signin:
+	User_id
+	Password
+
+
+Business Operations:
+
+1. User will sign in to the account as per the provided password.
+2. User will get options which service does  they require.
+3. User will be provided with mail and contact number of the helper as per their location.
+4. User need to provide name, contact number, and age when they are booking a ticket
+5. Admin will do update if required.
+6. Travel Information will be provided to user after bookingthe ticket.
+
+
